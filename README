@@ -1,0 +1,4 @@
+A clone of the old arcade game breakout.
+Features powerups and written in c++ and uses the SDL media library.
+
+My first released c++ game which runs on windows linux and potentially other platforms.
